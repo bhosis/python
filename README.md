@@ -1,2 +1,2 @@
-# python
+# Python
 My Python workspace.
